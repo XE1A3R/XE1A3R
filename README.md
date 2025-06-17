@@ -7,8 +7,8 @@
 Люблю интересные задачи. Стремлюсь осваивать новые технологии. Читаю мануалы, книги, просматриваю и посещаю тренинги.
 
 
-<div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px">
-    <span>Discord server:</span>
+<div>
+    <p>Discord server:</p>
     <a href="https://discord.gg/KWEwUtYQaX">
         <img src="images/discord.svg" width="40" alt="Discord">
     </a>
