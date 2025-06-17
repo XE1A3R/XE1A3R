@@ -6,24 +6,6 @@
 
 Люблю интересные задачи. Стремлюсь осваивать новые технологии. Читаю мануалы, книги, просматриваю и посещаю тренинги.
 
-<style>
-    
-    .logo_container {
-        display: flex;
-        justify-content: space-between;
-        flex-direction: column;
-    }
-    .logo {
-        width: 40px;
-        vertical-align: auto;
-        margin: 4px; 
-    }
-
-    a:hover img {   
-        background-color: yellow; 
-        opacity: 0.5;
-    }
-</style>
 
 <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 20px">
     <span>Discord server:</span>
@@ -38,31 +20,31 @@
 
 <div class="logo_container">
     <p>
-        <img class="logo" src="images/golang.svg" alt="Go">
-        <img class="logo" src="images/c--4.svg" alt="C#">
-        <img class="logo" src="images/JavaScript.svg" alt="JavaScript">
-        <img class="logo" src="images/HTML5.svg" alt="HTML5">
-        <img class="logo" src="images/CSS3.svg" alt="CSS3">
-        <img class="logo" src="images/JSON.svg" alt="JSON">
-        <img class="logo" src="images/mysql.svg" alt="MySQL">
-        <img class="logo" src="images/postgresql.svg" alt="PostgreSQL">
-        <img class="logo" src="images/Python.svg" alt="Python">
-        <img class="logo" src="images/Java.svg" alt="Java">
-        <img class="logo" src="images/bash.svg" alt="bash">
-        <img class="logo" src="images/mongodb.svg" alt="MongoDB">
-        <img class="logo" src="images/oracle.svg" alt="oracle">
+        <img class="logo" style="width: 40px" src="images/golang.svg" alt="Go">
+        <img class="logo" style="width: 40px" src="images/c--4.svg" alt="C#">
+        <img class="logo" style="width: 40px" src="images/JavaScript.svg" alt="JavaScript">
+        <img class="logo" style="width: 40px" src="images/HTML5.svg" alt="HTML5">
+        <img class="logo" style="width: 40px" src="images/CSS3.svg" alt="CSS3">
+        <img class="logo" style="width: 40px" src="images/JSON.svg" alt="JSON">
+        <img class="logo" style="width: 40px" src="images/mysql.svg" alt="MySQL">
+        <img class="logo" style="width: 40px" src="images/postgresql.svg" alt="PostgreSQL">
+        <img class="logo" style="width: 40px" src="images/Python.svg" alt="Python">
+        <img class="logo" style="width: 40px" src="images/Java.svg" alt="Java">
+        <img class="logo" style="width: 40px" src="images/bash.svg" alt="bash">
+        <img class="logo" style="width: 40px" src="images/mongodb.svg" alt="MongoDB">
+        <img class="logo" style="width: 40px" src="images/oracle.svg" alt="oracle">
     </p>
     <p>
-        <img class="logo" src="images/VS.svg" alt="Visual Studio">
-        <img class="logo" src="images/VSC.svg" alt="Visual Studio Code">
-        <img class="logo" src="images/Rider.svg" alt="Rider">
-        <img class="logo" src="images/PyCharm.svg" alt="PyCharm">
-        <img class="logo" src="images/DataGrip.svg" alt="DataGrip">
-        <img class="logo" src="images/IntelliJ.svg" alt="IntelliJ">
-        <img class="logo" src="images/DBeaver.svg" alt="DBeaver">
-        <img class="logo" src="images/Vim.svg" alt="Vim">
-        <img class="logo" src="images/Git.svg" alt="Git">
-        <img class="logo" src="images/regex.svg" alt="Git">
+        <img class="logo" style="width: 40px" src="images/VS.svg" alt="Visual Studio">
+        <img class="logo" style="width: 40px" src="images/VSC.svg" alt="Visual Studio Code">
+        <img class="logo" style="width: 40px" src="images/Rider.svg" alt="Rider">
+        <img class="logo" style="width: 40px" src="images/PyCharm.svg" alt="PyCharm">
+        <img class="logo" style="width: 40px" src="images/DataGrip.svg" alt="DataGrip">
+        <img class="logo" style="width: 40px" src="images/IntelliJ.svg" alt="IntelliJ">
+        <img class="logo" style="width: 40px" src="images/DBeaver.svg" alt="DBeaver">
+        <img class="logo" style="width: 40px" src="images/Vim.svg" alt="Vim">
+        <img class="logo" style="width: 40px" src="images/Git.svg" alt="Git">
+        <img class="logo" style="width: 40px" src="images/regex.svg" alt="Git">
     </p>
 </div>
 
