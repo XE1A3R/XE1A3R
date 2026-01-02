@@ -2,7 +2,7 @@
 <img src="images/Hi.gif" height="32"/></h1>
 <h3 align="center">programmer from Russia</h3>
 
-Программирую на C#, Python, Java.
+Программирую на Golang, C#, Python, Java.
 
 Люблю интересные задачи. Стремлюсь осваивать новые технологии. Читаю мануалы, книги, просматриваю и посещаю тренинги.
 
