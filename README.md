@@ -54,7 +54,7 @@ I'm a passionate software developer with experience in Golang, C#, Python, and J
 ## Contact Me
 
 <div align="center">
-  <a href="https://discord.gg/KWEwUtYQaX">
+  <a href="https://discord.gg/VSJunNGY9n">
     <img src="images/discord.svg" width="80" alt="Discord"/>
   </a>
 </div>
